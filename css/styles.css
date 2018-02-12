@@ -1,0 +1,40 @@
+.jumbotron {
+  background-color: blue;
+  margin: 1px;
+  border: 2px;
+  padding: 1px;
+}
+.img.img-rounded.text-center {
+  max-width: 100%;
+  max-height: auto;
+  height: auto;
+  width: 100%;
+}
+body{
+  background-image: url('https://images.pexels.com/photos/8892/pexels-photo.jpg?h=350&auto=compress&cs=tinysrgb')
+}
+body{
+  text-align:center;
+  color:white;
+  backgroung-repeat: no repeat;
+}
+h1{
+  font-style: italic;
+  padding:1px;
+  border:2px;
+  margin: 1px;
+  height: 40;
+  length;1px;
+}
+h2{
+  font-style: italic;
+}
+h3{
+  font-style: italic;
+}
+h4{
+  font-style: italic;
+}
+image{
+  border-radius: 500%;
+}
